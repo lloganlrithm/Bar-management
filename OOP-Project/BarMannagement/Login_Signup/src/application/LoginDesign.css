@@ -1,0 +1,25 @@
+.gradient{
+    -fx-background-color: #132728;
+}
+.white-form{
+    -fx-background-color: #fff;
+}
+.Login-button{
+    -fx-background-color: #132728;
+    -fx-background-radius: 30;
+}
+
+.Creat-button{
+    -fx-background-color: #FFFFFF;
+    -fx-background-radius: 30;
+}
+.Username-box{
+    -fx-background-color: #EAEAEA;
+    -fx-background-radius: 100;
+}
+.transparent{
+    -fx-background-color: rgba(0,0,0,0);
+}
+.shadow{
+    -fx-effect: dropShadow(three-pass-box,rgba(0,0,0,0.1), 10.0 , 0.0 , 0.0 , 10.0);
+}

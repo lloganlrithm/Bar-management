@@ -1,0 +1,61 @@
+.gradient{
+    -fx-background-color: #121212;
+	-fx-background-radius: 10;
+}
+.gradient2{
+	-fx-background-color: #132828;
+}
+.Name-button{
+    -fx-background-color: #383838;
+	-fx-background-radius: 40;
+    -fx-border-radius: 40;
+	-fx-border-color: #BCBD8D
+}
+.search-box{
+    -fx-background-color: #121212;
+    -fx-background-radius: 100;
+}
+.transparent{
+    -fx-background-color: rgba(0,0,0,0);
+}
+.shadow{
+    -fx-effect: dropShadow(three-pass-box,rgba(0,0,0,0.1), 5.0 , 0.0 , 0.0 , 5.0);
+}
+.hbox {
+    -fx-background-color: #1e1e1e;
+    -fx-alignment: center;
+	-fx-background-color: rgba(0,0,0,0);
+}
+
+.button {
+    -fx-background-color: transparent;
+    -fx-border-color: #c2c2a3;
+    -fx-text-fill: #c2c2a3;
+    -fx-border-radius: 40;
+}
+
+.button:hover {
+    -fx-background-color: #444;
+}
+
+.button:disabled {
+    -fx-opacity: 0.5;
+    -fx-border-color: gray;
+}
+
+.combo-box {
+    -fx-background-color: #1e1e1e;
+	-fx-background-color: rgba(0,0,0,0);
+    -fx-border-radius: 5px;
+    -fx-padding: 5px;
+}
+
+.combo-box .arrow {
+    -fx-background-color: #c2c2a3;
+}
+.transparent-ScollPane{
+	-fx-background-color: #132828;
+}
+.Black-From{
+	-fx-background-color: #121212;
+}
